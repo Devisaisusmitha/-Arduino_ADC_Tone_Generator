@@ -3,7 +3,7 @@
 An Analog-to-Digital Converter (ADC) project using Arduino Uno where a potentiometer controls the pitch of a buzzer in real-time. The analog value is read, mapped to a frequency, and displayed on Serial Monitor.
 
 ### **Demo**
-![Circuit Diagram](aec-arduino.png)
+![Circuit Diagram](adc-arduino.png)
 ![Demo](demo.gif)
 
 > **Note**: GIF has no audio. As the potentiometer rotates, the buzzer frequency changes from 250Hz to 5kHz based on ADC value 0-1023.
