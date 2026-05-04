@@ -2,9 +2,6 @@
 
 An Analog-to-Digital Converter (ADC) project using Arduino Uno where a potentiometer controls the pitch of a buzzer in real-time. The analog value is read, mapped to a frequency, and displayed on Serial Monitor.
 
-### **Circuit Diagram**
-![Circuit Diagram](adc-arduino.png)
-
 ### **Demo**
 ![Demo](demo.gif)
 
@@ -42,5 +39,9 @@ This demonstrates the core ADC principle: converting real-world analog signals i
 | Multimeter probes | A0 and GND |
 
 ### **Code**
-File: `ADC_Buzzer.ino`
+File: `adc_in_arduino1.ino`
+
+### **Circuit Diagram**
+![Circuit Diagram](adc-arduino.png)
+
 
